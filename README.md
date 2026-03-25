@@ -1,7 +1,7 @@
 # geracao_codigo_amir
 Script em Python para gerar PDFs com numeração sequencial automática a partir de um modelo.
 
-Cada página impressa precisa ter um código único em sequência (ex: 001, 002, 003...).
+Cada página (registro de transporte chamado de AMIR) precisa ter um código único em sequência (ex: 001, 002, 003...).
 
 O script automatiza esse processo:
 - Converte um PDF modelo em imagem
